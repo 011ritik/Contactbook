@@ -47,6 +47,6 @@ def finish():
     return exit()
 
 
-add_contacts()
+
 
 
